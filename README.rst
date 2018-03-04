@@ -5,10 +5,10 @@
 A little Python utility that lets you monitor Bitcoin addresses through `Blockchain Websocket API <http://blockchain.info/api/api_websocket>`_ and perform custom callbacks.
 
 
-.. image:: https://pypip.in/v/txwatcher/badge.png
+.. image:: https://img.shields.io/pypi/v/txwatcher.svg
         :target: https://crate.io/packages/txwatcher
 
-.. image:: https://pypip.in/d/txwatcher/badge.png
+.. image:: https://img.shields.io/pypi/dm/txwatcher.svg
         :target: https://crate.io/packages/txwatcher
 
 
